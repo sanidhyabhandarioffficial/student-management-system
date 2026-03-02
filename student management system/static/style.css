@@ -1,0 +1,24 @@
+body {
+  min-height: 100vh;
+}
+
+.card {
+  border: none;
+}
+
+.card-body {
+  border-radius: 0.5rem;
+}
+
+.btn-primary,
+.btn-success {
+  box-shadow: 0 6px 18px rgba(0, 86, 179, 0.2);
+}
+
+.table > :not(caption) > * > * {
+  vertical-align: middle;
+}
+
+.toast-container {
+  z-index: 1080;
+}
