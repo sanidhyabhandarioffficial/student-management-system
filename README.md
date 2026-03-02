@@ -47,5 +47,4 @@ http://127.0.0.1:5000/
 ---
 
 ## 📷 Screenshots
-(Add your application screenshots here)# student-management-system
-A Python-based Student Management System with CRUD operations and database integration.
+[screnshots] screenshot.png
